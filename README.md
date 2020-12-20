@@ -5,6 +5,8 @@
 ## 사용방법
 1. [파이썬 설치](https://www.python.org/)
 1. main.py를 원하는 경로에 다운받기
+1. maplePath의 값을 메이플 설치 경로로 변경 (기본값 : C:/Nexon/Maple/)
+1. screenshotPath의 값을 스크린샷을 옮길 경로로 변경 (기본값 : maplePath + "screenshot/", 기본값을 그대로 사용하실 경우 메이플 폴더 안에 screenshot 폴더를 만들어주세요)
 1. **작업 스케줄러** 설정
 
 ### 작업 스케줄러 설정 방법

@@ -18,4 +18,4 @@
 1. **인수 추가**에 main.py 경로
 1. 트리거탭 - 원하는 실행 주기 설정 (ex: PC 켜질때마다 실행, 매일 저녁 8시 실행 등등)
  
-자세한 설명은 [여기](https://blog.apteryx.moe/posts/1770/)를 참고하세요
+자세한 설명은 [여기](https://blog.apteryx.moe/posts-1770/)를 참고하세요
